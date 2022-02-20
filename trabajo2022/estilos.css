@@ -1,0 +1,31 @@
+#principal {
+    border: 1px #f10b0b ;
+    padding: 10px;
+    margin:0 auto;
+    width: 75%;
+    background: #a3b9ee
+}
+fieldset {
+    margin bottom: 10px;
+    
+
+}
+legend{
+border: solid 1px #415f80;
+padding: 5px;
+font-weight: bold;
+background: #7dcee7;
+border-radius:15px ;
+
+}
+#foto{
+    border:solid 2px;
+    margin: 10px;
+    border-radius:100% 
+}
+#pelicula{
+    padding: 10px;
+}
+body{
+    background: url(img/pantalla\ ul.jpg);
+}
